@@ -1,11 +1,9 @@
 
 
-![mario-developer](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/451f909a-2430-4c64-84e1-16b7d3fa571e)
-
 <img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/a601964d-397d-4910-aa99-16b41e82420c" />
 
 
-### Hey there <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50px" height="50px"/>
+### Hey there <img src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/db3af170-c993-4807-9197-3fbca004d3e7" width="70px" height="70px "/>
 
 <a href="#" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Facebook" width="24px" height="22px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/5d99f921-d227-4bc2-8da6-3053913992bd" />
@@ -39,7 +37,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="center" >
-<h3 >Languages and Tools:</h3>
+<h3 >Languages and Tools:</h3>![loading-icon](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/8c4a6423-5b34-4348-88a2-3be218a0451a)
+
 <p >
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -68,3 +67,4 @@
 ### 📫 How to reach me:
   - Gmail   : righiriccardo0@gmail.com
  
+![pixel-octocat](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/db3af170-c993-4807-9197-3fbca004d3e7)
