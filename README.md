@@ -1,36 +1,31 @@
-### Hi there 👋
 
-<<img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="./images/banner.png" />
+
+<img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/a601964d-397d-4910-aa99-16b41e82420c" />
 
 
 ### Hey there <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50px" height="50px"/>
 
 <a href="#" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Facebook" width="24px" height="22px" src="./images/facebook.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="Facebook" width="24px" height="22px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/5d99f921-d227-4bc2-8da6-3053913992bd" />
+</a>
+
+
+<a href="#" target="_blank">
+  <img style="margin: 0 4px" align="left" alt="LinkedIn" width="24px" height="22px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/a16cea69-0363-4971-be12-cfdd378f07b3" />
 </a>
 
 <a href="#" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Medium" width="24px" height="22px" src="./images/medium.svg?raw=true" />
-</a>
-
-<a href="#" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="LinkedIn" width="24px" height="22px" src="./images/linkedin.svg?raw=true" />
-</a>
-
-<a href="#" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="X" width="22px" height="22px" src="./images/x.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="X" width="22px" height="22px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/4a2d98ff-4e58-498b-b91d-7f8db3aac77c" />
 </a>
 
 <a href="https://github.com/NonLoSoRick" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="GitHub" width="22px" height="22px" src="./images/github.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="GitHub" width="22px" height="22px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/13f87412-f931-4395-9d41-67a90baea008" />
 </a>
 
-<a href="#" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Website" width="22px" height="22px" src="./images/web.svg?raw=true" />
-</a>
+
 
 <a href="mailto:righiriccardo0@gmail.com" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="Email" width="24px" height="20px" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/4d8829b0-794a-4f0d-96b7-35912b8eb233" />
 </a>
 
 <br>
@@ -71,5 +66,6 @@
 ### 📫 How to reach me:
   - Gmail   : righiriccardo0@gmail.com
  
+
 
 
