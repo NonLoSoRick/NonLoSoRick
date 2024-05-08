@@ -1,5 +1,7 @@
 
 
+![mario-developer](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/451f909a-2430-4c64-84e1-16b7d3fa571e)
+
 <img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/a601964d-397d-4910-aa99-16b41e82420c" />
 
 
@@ -66,5 +68,3 @@
 ### 📫 How to reach me:
   - Gmail   : righiriccardo0@gmail.com
  
-
-![mario-developer](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/451f909a-2430-4c64-84e1-16b7d3fa571e)
