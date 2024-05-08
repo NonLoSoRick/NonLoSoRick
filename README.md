@@ -37,8 +37,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="center" >
-<h3 >Languages and Tools:</h3>![loading-icon](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/8c4a6423-5b34-4348-88a2-3be218a0451a)
-
+<h3 >Languages and Tools:</h3>
 <p >
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
