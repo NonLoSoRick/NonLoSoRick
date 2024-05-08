@@ -36,10 +36,8 @@
 <br>
 <br>
 
-Hello! I'm Stefano Scalfari, from Italy 🇮🇹, currently living in Rome. I'm interested in Web Application Development and beyond. I don't confine myself to a single programming sector because I believe a developer shouldn't limit themselves and define themselves solely by one programming language. I enjoy learning new and exciting languages and delving into various software-related topics. Besides programming, I love spending my time immersed in music. I play the guitar, and even there, I always try to apply logic to study thoroughly what it represents, without losing sight of the crucial point behind everything, including programming: creativity and a love for art.
 
 
-Want to know more about me? Check out my [portfolio](https://stefanoscalfari.it).
 
 ## &#x1f4c8; GitHub Stats
 
