@@ -67,4 +67,4 @@
 ### 📫 How to reach me:
   - Gmail   : righiriccardo0@gmail.com
  
-![pixel-octocat](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/db3af170-c993-4807-9197-3fbca004d3e7)
+
