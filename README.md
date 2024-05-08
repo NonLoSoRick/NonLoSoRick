@@ -13,7 +13,7 @@
   <img style="margin: 0 4px" align="left" alt="Medium" width="24px" height="22px" src="./images/medium.svg?raw=true" />
 </a>
 
-<a href="https://www.linkedin.com/in/stefano-scalfari-63083a189/" target="_blank">
+<a href="#" target="_blank">
   <img style="margin: 0 4px" align="left" alt="LinkedIn" width="24px" height="22px" src="./images/linkedin.svg?raw=true" />
 </a>
 
@@ -21,15 +21,15 @@
   <img style="margin: 0 4px" align="left" alt="X" width="22px" height="22px" src="./images/x.svg?raw=true" />
 </a>
 
-<a href="https://github.com/Vorshim92" target="_blank">
+<a href="https://github.com/NonLoSoRick" target="_blank">
   <img style="margin: 0 4px" align="left" alt="GitHub" width="22px" height="22px" src="./images/github.svg?raw=true" />
 </a>
 
-<a href="https://stefanoscalfari.it" target="_blank">
+<a href="#" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Website" width="22px" height="22px" src="./images/web.svg?raw=true" />
 </a>
 
-<a href="mailto:stefano.scalfari@gmail.com" target="_blank">
+<a href="mailto:righiriccardo0@gmail.com" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Email" width="24px" height="20px" src="./images/mail.svg?raw=true" />
 </a>
 
@@ -57,7 +57,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
 </p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorshim92&theme=blue-green&show_icons=true&hide_border=false&layout=compact" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonLoSoRick&theme=blue-green&show_icons=true&hide_border=false&layout=compact" />
 
 </div>
 
