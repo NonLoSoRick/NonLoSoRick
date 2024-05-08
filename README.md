@@ -67,3 +67,4 @@
   - Gmail   : righiriccardo0@gmail.com
  
 
+![mario-developer](https://github.com/NonLoSoRick/NonLoSoRick/assets/156794663/451f909a-2430-4c64-84e1-16b7d3fa571e)
